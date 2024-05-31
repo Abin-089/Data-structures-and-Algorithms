@@ -1,7 +1,6 @@
 # Advanced Data Structures and Algorithms in C
 
 ### About 
- * 
  * with complete working programs Done in DSA LAB for B Tech Semester 3 as per KTU Syllabus and more.
  * Includes AVL tree, BTree, Graph Algorithms ,Sorting Algorithms ,Stack  ,Queue,Recursive Algorithms ,Searching Algorithms  
  * Builds a solid foundation in Data Structures and Algorithms
